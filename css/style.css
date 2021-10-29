@@ -51,7 +51,9 @@ header {
 main {
   padding: 2vw 4vw;
 }
-
+main p {
+  font-size: 1.4vw;
+}
 .row {
   display: flex;
   justify-content: flex-start;
@@ -222,7 +224,9 @@ main {
   main {
     padding: 4vw 8vw;
   }
-
+  main p {
+    font-size: 3.6vw;
+  }
   .row {
     display: flex;
     flex-direction: column;
